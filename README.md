@@ -1,1 +1,1 @@
-# Le Wagon Design repository 
+# It's all about design
