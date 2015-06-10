@@ -12,7 +12,7 @@ Download vector and .png versions of our logo and mark for certain uses below. W
 
 
 Please don't:
-
+- Change the logo proportions
 - Manipulate the logo's color.
 - Alter the logo's orientation. Make sure no type, design, or photographic elements encroach on the logo.
 
