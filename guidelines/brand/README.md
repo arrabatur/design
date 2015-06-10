@@ -1,4 +1,4 @@
-# Le Wagon Guideline's
+# Brand guideline's
 
 ## Logo
 
