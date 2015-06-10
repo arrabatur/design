@@ -37,6 +37,6 @@ Please don't:
 
 ## How to write Le Wagon
 
-Le Wagon, ~~lewagon~~, ~~le wagon~~, ~~Le wagon~~
+Le Wagon. Not ~~lewagon~~, ~~le wagon~~, ~~Le wagon~~, ~~le Wagon~~ 
 
 
