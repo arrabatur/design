@@ -6,19 +6,14 @@ Download vector and .png versions of our logo and mark for certain uses below. W
 
 ### Full text
 
-[SVG](lien)
-[PNG](lien)
 
 
 ### Wagon
 
-[SVG](lien)
-[PNG](lien)
+
 
 ### On Demand
 
-[SVG](lien)
-[PNG](lien)
 
 Please don't:
 
@@ -43,7 +38,7 @@ Please don't:
 ## Typo
 
 ### [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
-### [Proxima Nova](https://www.myfonts.com/fonts/linotype/avenir/)
+### [Proxima Nova](https://typekit.com/fonts/proxima-nova)
 
 ## How to write Le Wagon
 
