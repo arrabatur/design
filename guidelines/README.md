@@ -28,12 +28,15 @@ Please don't:
 
 ## Color Palette
 
+<img src="https://raw.githubusercontent.com/lewagon/design/master/guidelines/colors/persian-red.jpg" width="100">
 #### Persian Red
 "#D23333"
 
+<img src="https://raw.githubusercontent.com/lewagon/design/master/guidelines/colors/sea-blue.jpg" width="100">
 #### Sea Blue
 "#006A9C"
 
+<img src='https://raw.githubusercontent.com/lewagon/design/master/guidelines/colors/mine-shaft.jpg' width="100" >
 #### Mine Shaft
 "#343434"
 
