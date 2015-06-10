@@ -1,7 +1,7 @@
 ## Guidelines
 
 Quick jump :
-- Brand
+- [Brand](https://github.com/lewagon/design/tree/master/guidelines/brand)
 - Aperotalk
 - Demo Day
 - Announcement
