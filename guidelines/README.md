@@ -14,7 +14,6 @@ Download vector and .png versions of our logo and mark for certain uses below. W
 Please don't:
 
 - Manipulate the logo's color.
-- Change the logo proportions.
 - Alter the logo's orientation. Make sure no type, design, or photographic elements encroach on the logo.
 
 ## Color Palette
