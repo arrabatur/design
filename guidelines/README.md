@@ -4,15 +4,11 @@
 
 Download vector and .png versions of our logo and mark for certain uses below. We ask you to respect our branding guidelines and not alter the logo in any way, shape or form. [Download all](lien)
 
-### Full text
+### Full text logo
+<img src='https://raw.githubusercontent.com/lewagon/design/master/guidelines/assets_pack/pixels/le-wagon-logo-horizontal-red.jpg' width='500' >
 
-
-
-### Wagon
-
-
-
-### On Demand
+### Wagon logo
+<img src='https://raw.githubusercontent.com/lewagon/design/master/guidelines/assets_pack/pixels/le-wagon-logo-red-940.jpg' width='300' >
 
 
 Please don't:
