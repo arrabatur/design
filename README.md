@@ -1,8 +1,0 @@
-
-## Logo
-
-- LeWagon
-- Product Punch
-
-
-
