@@ -31,9 +31,9 @@ Please don't:
 "#343434"
 
 
-
 #### Quincy
 "#6C5145"
+
 ## Typo
 
 ### [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
