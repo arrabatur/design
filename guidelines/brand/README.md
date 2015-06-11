@@ -30,8 +30,7 @@ Please don't:
 #### Mine Shaft
 "#343434"
 
-<img src='https://github.com/lewagon/design/raw/master/guidelines/brand/colors/quincy.jpg
-' width="100" >
+<img src='https://github.com/lewagon/design/raw/master/guidelines/brand/colors/quincy.jpg' width="100" >
 #### Quincy
 "#6C5145"
 
