@@ -1,5 +1,7 @@
 # Meetup Guidelines
 
+Download .jpg versions of our meetup assets [here](https://github.com/lewagon/design/raw/meetup/guidelines/meetup/assets_pack/assets_pack.zip).
+
 ### Here is how your main meetup page should look.
 
 <img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/example_meetup.jpg' width= "100%">
