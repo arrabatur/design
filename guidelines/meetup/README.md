@@ -19,3 +19,5 @@ Download .jpg versions of our meetup assets [here](https://github.com/lewagon/de
 
 <img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/background_image.jpg' width='100%'>
 
+Feel free to make an issue, or a pull request to improve the design of our meetup pages ! 
+
