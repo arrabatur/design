@@ -19,20 +19,20 @@ Please don't:
 ## Color Palette
 
 <img src="https://raw.githubusercontent.com/lewagon/design/master/guidelines/brand/colors/persian-red.jpg" width="100">
-#### Persian Red
-"#D23333"
+#### Red
+"Persian Red - #D23333"
 
 <img src="https://raw.githubusercontent.com/lewagon/design/master/guidelines/brand/colors/sea-blue.jpg" width="100">
-#### Sea Blue
-"#006A9C"
+#### Blue
+"Sea Blue - #006A9C"
 
 <img src='https://raw.githubusercontent.com/lewagon/design/master/guidelines/brand/colors/mine-shaft.jpg' width="100" >
-#### Mine Shaft
-"#343434"
+#### Black
+"Mine Shaft - #343434"
 
 <img src='https://github.com/lewagon/design/raw/master/guidelines/brand/colors/quincy.jpg' width="100" >
-#### Quincy
-"#6C5145"
+#### Brown
+"Quincy - #6C5145"
 
 ## Typo
 
