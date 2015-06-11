@@ -1,6 +1,6 @@
 # AperoTalk Guidelines
 
-`.psd` pack : [click here]()
+`.psd` pack : [click here](https://github.com/lewagon/design/raw/workshop/guidelines/aperotalk/psd_pack.zip)
 
 ### Thumbnail - Guest + logo
 
