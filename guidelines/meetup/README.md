@@ -14,3 +14,8 @@ Download .jpg versions of our meetup assets [here](https://github.com/lewagon/de
 - Default Background: **#F2F2F2**
 - Link: **#D2333**
 - Buttons: **#D2333**
+
+### Background image
+
+<img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/background_image.jpg' width='100%'>
+
