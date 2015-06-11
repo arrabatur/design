@@ -33,7 +33,6 @@ Please don't:
 ## Typo
 
 ### [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
-### [Proxima Nova](https://typekit.com/fonts/proxima-nova)
 
 ## How to write Le Wagon
 
