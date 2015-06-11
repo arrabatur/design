@@ -30,12 +30,16 @@ Please don't:
 #### Mine Shaft
 "#343434"
 
+
+
+#### Quincy
+"#6C5145"
 ## Typo
 
 ### [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
 
 ## How to write Le Wagon
 
-Le Wagon. Not ~~lewagon~~, ~~le wagon~~, ~~Le wagon~~, ~~le Wagon~~ 
+Le Wagon. Not ~~lewagon~~, ~~le wagon~~, ~~Le wagon~~, ~~le Wagon~~
 
 
