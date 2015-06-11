@@ -6,7 +6,7 @@ Download .jpg versions of our meetup assets [here](https://github.com/lewagon/de
 
 <img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/example_meetup.jpg' width= "100%">
 
-### Color palette
+## Color palette
 
 <img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/colors.jpg' width="200px" >
 
@@ -15,7 +15,7 @@ Download .jpg versions of our meetup assets [here](https://github.com/lewagon/de
 - Link: **#D2333**
 - Buttons: **#D2333**
 
-### Background image
+## Background image
 
 <img src='https://raw.githubusercontent.com/lewagon/design/meetup/guidelines/meetup/assets_pack/background_image.jpg' width='100%'>
 
