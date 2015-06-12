@@ -14,3 +14,7 @@ If you don't have the logo of the guest company, don't panic, you can use this o
 ### Square - Guest + logo
 
 <img src='https://github.com/lewagon/design/raw/master/guidelines/aperotalk/example/square_template_guest_with_logo.jpg' width='100%'>
+
+### Youtube Thumbnail
+
+
