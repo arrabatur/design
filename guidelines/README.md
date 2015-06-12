@@ -6,5 +6,6 @@
 - [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk)
 - [Student Project](https://github.com/lewagon/design/tree/master/guidelines/student_project)
 - [Trombinoscope](https://github.com/lewagon/design/tree/master/guidelines/trombinoscope)
+- [Print](https://github.com/lewagon/design/tree/master/guidelines/print)
 - Demo Day
 - Announcement
