@@ -2,6 +2,11 @@
 
 `.psd` pack : [click here](https://github.com/lewagon/design/raw/workshop/guidelines/aperotalk/psd_pack.zip)
 
+- Thumbnail - Guest + logo
+- Thubmnail - Guest (without logo)
+- Square - Guest + logo
+- Youtube Thumbnail
+
 ### Thumbnail - Guest + logo
 
 If you don't have the logo of the guest company, don't panic, you can use this one :
