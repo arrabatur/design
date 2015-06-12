@@ -1,6 +1,6 @@
 # Workshop Guidelines
 
-Download the `.psd` pack and enjoy ! Click here
+Download the `.psd` pack and enjoy ! [Click here](https://github.com/lewagon/design/raw/master/guidelines/workshop/psd_pack.zip)
 
 - Thumbnail Version
 - Square Version
