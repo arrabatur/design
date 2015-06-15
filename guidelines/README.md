@@ -1,6 +1,6 @@
 ## Guidelines
 
-N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon/design/tree/master/guidelines#comment-ça-marche) avant de commencer !
+Please [read this](https://github.com/lewagon/design/tree/master/guidelines#comment-ça-marche) before you start !
 
 ### Quick jump between categories
 
@@ -14,52 +14,47 @@ N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon
 - Demo Day
 - Announcement
 
-### Comment ça marche
 
-Ces guidelines sont écrites dans le but d'uniformiser les productions graphiques entre les Wagons, et ainsi d'éviter de faire chacun ses productions graphiques dans son coin. Nous pensons que le principe de Github est parfait pour centraliser tous nos templates et les faire évoluer.
+### What is this?
 
-#### Comment ça marche, vraiment ?
+We wrote the following guidelines in order to insure a very simple workflow between all the people in charge of design between the Wagons all over the world. As we would love to see a continuity and an ever growing quality among our graphic assets, Github seems to be the right place to centralize them and gather your feedbacks.
 
-Nous répértorions nos templates par type, par exemple, dans [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk), vous trouverez tous les contenus graphique que nécessite un bon apero talk.
+#### How does it work?
 
-#### J'aimerais une modification sur un template!
+We organised them by **type**. For exemple, in the following directory : [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk), you will find all the assets needed to organise and spread the news on the web when you pull one off ! (YouTube thumbnails, Facebook annoucement...)
 
-Si vous pensez qu'un template doit être modifié, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new) demander une modification, merci de respecter le format de titre suivant :
+#### Hum... I'd like to change something.
 
-```
-[Catégorie] Template
-
-Exemple avec un apero talk :
-[AperoTalk] Thumbnail youtube
-
-Exemple avec un workshop :
-[Workshop] Image principale
-```
-
-
-#### Mais... C'est moche !
-
-Les propositions de template sont faites par les designers des Wagons, qui collabore ensemble sur ce repo. Si vous n'êtes pas d'accord avec un template, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new) pour contester un template, merci de respecter le format de titre suivant :
+If you're up for a change, please [open an issue](https://github.com/lewagon/design/issues/new) and ask for an update this way :
 
 ```
 [Catégorie] Template
 
-Exemple avec un apero talk :
-[AperoTalk] Thumbnail youtube
+Exemple Apero Talk :
+[AperoTalk] Update YouTube Thumbnail
 
-Exemple avec un workshop :
-[Workshop] Image principale
+Exemple Workshop :
+[Workshop] Update Main Image
 ```
 
 
-#### J'ai envie de créer un nouveau template
+#### Yurk !
 
-Génial ! De la même manière qu'avec le developpement, vous pouvez ouvrir une branche et placer le nouveau template dans sa catégorie. Vous pouvez alors [ouvrir une issue](https://github.com/lewagon/design/issues/new) pour tenir au courant les autres designers du Wagon, ou même demander un avis !
+Thoses assets are made with love at Le Wagon Paris. However there's no accounting for taste. If you'd like to suggest something else please [open an issue](https://github.com/lewagon/design/issues/new) and ask for an update this way :
 
-Une fois que vous êtes bon, faites une pull-request !
+```
+[Catégorie] Template
+
+Exemple Apero Talk :
+[AperoTalk] Update YouTube Thumbnail
+
+Exemple Workshop :
+[Workshop] Update Main Image
+```
 
 
-#### J'ai amélioré un template !
+#### Feeling inspired ? Welcome !
 
-Même chose, n'hésitez pas à faire une pull request pour montrer votre travail et recueillir l'avis général !
+This is great ! In the same way developers use the gitflow feel free to do it too. Create a new branch and add the new template in its category then [open an issue](https://github.com/lewagon/design/issues/new) in order to inform the team members and get feedbacks!
 
+Then create a pull-request. Do not hesite to show your work. Never!
