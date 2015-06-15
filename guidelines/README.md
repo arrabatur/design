@@ -1,5 +1,7 @@
 ## Guidelines
 
+N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon/design/tree/master/guidelines#comment-ça-marche) avant de commencer !
+
 ### Quick jump between categories
 
 - [Brand](https://github.com/lewagon/design/tree/master/guidelines/brand)
