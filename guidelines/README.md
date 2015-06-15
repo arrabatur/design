@@ -58,7 +58,7 @@ Génial ! De la même manière qu'avec le developpement, vous pouvez ouvrir une 
 Une fois que vous êtes bon, faites une pull-request !
 
 
+#### J'ai amélioré un template !
 
-
-
+Même chose, n'hésitez pas à faire une pull request pour montrer votre travail et recueillir l'avis général ! 
 
