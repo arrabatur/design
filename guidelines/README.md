@@ -14,7 +14,6 @@ N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon
 - Demo Day
 - Announcement
 
-
 ### Comment ça marche
 
 Ces guidelines sont écrites dans le but d'uniformiser les productions graphiques entre les Wagons, et ainsi d'éviter de faire chacun ses productions graphiques dans son coin. Nous pensons que le principe de Github est parfait pour centraliser tous nos templates et les faire évoluer.
