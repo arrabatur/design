@@ -1,6 +1,6 @@
 ## Guidelines
 
-## Quick jump between catégories
+## Quick jump between categories
 
 - [Brand](https://github.com/lewagon/design/tree/master/guidelines/brand)
 - [Meetup](https://github.com/lewagon/design/tree/master/guidelines/meetup)
