@@ -1,6 +1,6 @@
 ## Guidelines
 
-Please [read this](https://github.com/lewagon/design/tree/master/guidelines#What-is-this?) before you start !
+Please read the documentation before you start !
 
 ### Quick jump between categories
 
