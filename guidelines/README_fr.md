@@ -23,24 +23,9 @@ Ces guidelines sont écrites dans le but d'uniformiser les productions graphique
 
 Nous répertorions nos templates par **type**, par exemple, dans [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk), vous trouverez tous les contenus graphiques et templates que nécessite l'organisation d'un apero talk : thumbnails YouTube, visuels Facebook...
 
-#### J'aimerais une modification sur un template !
+#### Mais... C'est moche ! J'aimerais une modification sur un template.
 
-Si vous pensez qu'un template doit être modifié, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new) et demander une modification. Merci de respecter le format de titre suivant :
-
-```
-[Catégorie] Template
-
-Exemple avec un apero talk :
-[AperoTalk] Update Thumbnail youtube
-
-Exemple avec un workshop :
-[Workshop] Update Image principale
-```
-
-
-#### Mais... C'est moche !
-
-Les propositions de template sont faites par les designers des Wagons, ou les personnes en charge de l'exécution graphique, qui collaborent ensemble sur ce repo. Si vous n'êtes pas d'accord avec un template, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new). Pour contester un template, merci de respecter le format de titre suivant :
+Les propositions de template sont concoctées avec passion au Wagon Paris. Mais comme tous les goûts sont dans la nature, si vous pensez qu'un template doit être modifié [ouvrez une issue](https://github.com/lewagon/design/issues/new). Merci de respecter la nomenclature suivants :
 
 ```
 [Catégorie] Template
@@ -52,9 +37,8 @@ Exemple avec un workshop :
 [Workshop] New Image principale
 ```
 
+#### Envie de créer un nouveau template ?
 
-#### Envie de modifier et/ou créer un nouveau template ?
+Génial ! De la même manière qu'avec le développement, vous pouvez ouvrir une branche et placer le nouveau template dans sa catégorie. [Lancez une pull request](https://github.com/lewagon/design/issues/new) pour en tenir informés les autres designers du Wagon et demander un avis. N'hésitez jamais à montrer votre travail afin de recueillir l'avis général !
 
-Génial ! De la même manière qu'avec le développement, vous pouvez ouvrir une branche et placer le nouveau template dans sa catégorie. [Ouvrez une issue](https://github.com/lewagon/design/issues/new) pour en tenir informés les autres designers du Wagon et demander un avis.
-
-Une fois que vous êtes bon, lancez une pull-request. N'hésitez jamais à montrer votre travail afin de recueillir l'avis général !
+Nous vous attendons sur le [chanel #design sur Slack](https://teamwagon.slack.com/messages/design) pour échanger autour de vos idées !
