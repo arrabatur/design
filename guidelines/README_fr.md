@@ -1,6 +1,6 @@
 ## Guidelines
 
-N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon/design/tree/master/guidelines#comment-ça-marche) avant de commencer !
+Nous vous recommandons de lire la partie [Comment ça marche](https://github.com/lewagon/design/tree/master/guidelines#comment-ça-marche) avant de commencer !
 
 ### Quick jump between categories
 
@@ -15,52 +15,30 @@ N'hésitez pas à lire la partie [Comment ça marche](https://github.com/lewagon
 - Announcement
 
 
-### Comment ça marche
+### Pourquoi ?
 
-Ces guidelines sont écrites dans le but d'uniformiser les productions graphiques entre les Wagons, et ainsi d'éviter de faire chacun ses productions graphiques dans son coin. Nous pensons que le principe de Github est parfait pour centraliser tous nos templates et les faire évoluer.
+Ces guidelines sont écrites dans le but d'uniformiser les productions graphiques entre les Wagons afin de donner une continuité à l'ensemble et ainsi véhiculer une image de qualité auprès des communautés de chacun. Github est l'endroit parfait pour centraliser les templates, les faire évoluer et recueillir vos feedbacks.
 
-#### Comment ça marche, vraiment ?
+#### Comment ça marche ?
 
-Nous répértorions nos templates par type, par exemple, dans [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk), vous trouverez tous les contenus graphique que nécessite un bon apero talk.
+Nous répertorions nos templates par **type**, par exemple, dans [AperoTalk](https://github.com/lewagon/design/tree/master/guidelines/aperotalk), vous trouverez tous les contenus graphiques et templates que nécessite l'organisation d'un apero talk : thumbnails YouTube, visuels Facebook...
 
-#### J'aimerais une modification sur un template!
+#### Mais... C'est moche ! J'aimerais une modification sur un template.
 
-Si vous pensez qu'un template doit être modifié, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new) demander une modification, merci de respecter le format de titre suivant :
-
-```
-[Catégorie] Template
-
-Exemple avec un apero talk :
-[AperoTalk] Thumbnail youtube
-
-Exemple avec un workshop :
-[Workshop] Image principale
-```
-
-
-#### Mais... C'est moche !
-
-Les propositions de template sont faites par les designers des Wagons, qui collabore ensemble sur ce repo. Si vous n'êtes pas d'accord avec un template, vous pouvez [ouvrir une issue](https://github.com/lewagon/design/issues/new) pour contester un template, merci de respecter le format de titre suivant :
+Les propositions de template sont concoctées avec passion au Wagon Paris. Mais comme tous les goûts sont dans la nature, si vous pensez qu'un template doit être modifié [ouvrez une issue](https://github.com/lewagon/design/issues/new). Merci de respecter la nomenclature suivants :
 
 ```
 [Catégorie] Template
 
 Exemple avec un apero talk :
-[AperoTalk] Thumbnail youtube
+[AperoTalk] New Thumbnail youtube
 
 Exemple avec un workshop :
-[Workshop] Image principale
+[Workshop] New Image principale
 ```
 
+#### Envie de créer un nouveau template ?
 
-#### J'ai envie de créer un nouveau template
+Génial ! De la même manière qu'avec le développement, vous pouvez ouvrir une branche et placer le nouveau template dans sa catégorie. [Lancez une pull request](https://github.com/lewagon/design/issues/new) pour en tenir informés les autres designers du Wagon et demander un avis. N'hésitez jamais à montrer votre travail afin de recueillir l'avis général !
 
-Génial ! De la même manière qu'avec le developpement, vous pouvez ouvrir une branche et placer le nouveau template dans sa catégorie. Vous pouvez alors [ouvrir une issue](https://github.com/lewagon/design/issues/new) pour tenir au courant les autres designers du Wagon, ou même demander un avis !
-
-Une fois que vous êtes bon, faites une pull-request !
-
-
-#### J'ai amélioré un template !
-
-Même chose, n'hésitez pas à faire une pull request pour montrer votre travail et recueillir l'avis général !
-
+Nous vous attendons sur le [chanel #design sur Slack](https://teamwagon.slack.com/messages/design) pour échanger autour de vos idées !
