@@ -16,7 +16,7 @@ If you don't have the logo of the guest company, don't panic, you can use this o
 
 <img src='https://github.com/lewagon/design/raw/master/guidelines/aperotalk/example/template_guest_with_logo.jpg' width="50%">
 
-### Square FB & Twitter image - Guest + logo
+### Square FB & Twitter image - Guest + Guest's compagny logo
 
 <img src='https://github.com/lewagon/design/raw/master/guidelines/aperotalk/example/square_template_guest_with_logo.jpg' width='50%'>
 
