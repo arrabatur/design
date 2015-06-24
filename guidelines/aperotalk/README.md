@@ -7,12 +7,12 @@
 - Square - Guest + logo
 - Youtube Thumbnail
 
-### Thumbnail FB Link - Guest + logo
+### Thumbnail FB Link - Guest + Le Wagon logo
 
 If you don't have the logo of the guest company, don't panic, you can use this one :
 <img src='https://github.com/lewagon/design/raw/master/guidelines/aperotalk/example/template_guest_without_logo.jpg' width="50%">
 
-### Thumbnail FB Link - Guest (without logo)
+### Thumbnail FB Link - Guest + Guest's compagny logo
 
 <img src='https://github.com/lewagon/design/raw/master/guidelines/aperotalk/example/template_guest_with_logo.jpg' width="50%">
 
