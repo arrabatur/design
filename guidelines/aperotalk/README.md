@@ -28,7 +28,13 @@ If you don't have the logo of the guest company, don't panic, you can use this o
 
 When you copy and past your link, FB generates something like this :
 
+<img src='https://github.com/lewagon/design/blob/update-readme/guidelines/aperotalk/example/facebook_link.jpg' width='50%'>
+
 Click the `Upload Image` button and select the `something.jpg` you've just created.
 
+<img src='https://github.com/lewagon/design/blob/update-readme/guidelines/aperotalk/example/aperotalk_doctolib.jpg' width='50%'>
+
 Peekaboo!
+
+<img src='https://github.com/lewagon/design/blob/update-readme/guidelines/aperotalk/example/facebook_link_enhance.jpg' width='50%'>
 
