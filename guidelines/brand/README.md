@@ -1,4 +1,4 @@
-# Brand guideline's
+# Brand guidelines
 
 ## Logo
 
