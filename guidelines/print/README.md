@@ -1,4 +1,8 @@
-# Print Templates
+# Print
+
+### Sticker
+
+We use [StickerMule](https://www.stickermule.com/) to order our stickers.
 
 ### Business Card
 
