@@ -36,7 +36,7 @@ Please don't:
 
 ## Typo
 
-### [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
+### [Avenir](https://github.com/lewagon/design/tree/master/pick-it/fonts/Avenir)
 
 ## How to write Le Wagon
 
